@@ -1,0 +1,19 @@
+{
+  "name": "ghexercise-publish-package",
+  "version": "1.0.0",
+  "description": "This exercise checks your ability to publish to a GitHub Packages registry. It is automatically graded via a workflow once you have completed the instructions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matttselden/ghexercise-publish-package.git"
+  },
+  "author": ":q",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matttselden/ghexercise-publish-package/issues"
+  },
+  "homepage": "https://github.com/matttselden/ghexercise-publish-package#readme"
+}
